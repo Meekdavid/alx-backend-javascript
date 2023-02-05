@@ -1,4 +1,4 @@
-Everyth
+Everyt
 module.exports =  {
   parser:  '@typescript-eslint/parser',
   extends:  [
